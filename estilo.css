@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  flex-direction: row;
+  font-family: sans-serif;
+}
+
+.logo {
+  height: 150px;
+  width: 125px;
+}
+
+#foto {
+  float: right;
+}
+
+.titulo-perritos {
+  padding: 10px;
+}
+.fondo-foto {
+  margin: 10px;
+  padding: 10px;
+  background-color: violet;
+}
+
+header {
+  background-color: palevioletred;
+  padding: 30px;
+  margin-right: 10px;
+}
+
+li {
+  list-style: none;
+}
