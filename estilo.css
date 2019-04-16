@@ -1,12 +1,17 @@
 body {
   display: flex;
-  flex-direction: row;
+
   font-family: sans-serif;
+  height: 100vh;
 }
 
 .logo {
   height: 150px;
   width: 125px;
+}
+
+.contenido {
+  overflow: scroll;
 }
 
 #foto {
