@@ -1,8 +1,8 @@
 body {
   display: flex;
-
   font-family: sans-serif;
   height: 100vh;
+  overflow-y: hidden;
 }
 
 .logo {
